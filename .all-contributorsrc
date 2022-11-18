@@ -11,6 +11,16 @@
   "commitConvention": "none",
   "contributors": [
     {
+      "login": "lemonnuggets",
+      "name": "Adam Jijo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63046776?v=4",
+      "profile": "https://github.com/lemonnuggets/",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
+    },
+    {
       "login": "Presto412",
       "name": "Priyansh Jain",
       "avatar_url": "https://avatars.githubusercontent.com/u/26374855?v=4",

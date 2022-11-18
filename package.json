@@ -7,19 +7,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IEEECS-VIT/Enhancer-for-VIT-Vellore-Academics.git"
+    "url": "git+https://github.com/lemonnuggets/vtop-enhancer-firefox.git"
   },
   "keywords": [
     "vtop",
     "vit",
-    "enhancer"
+    "enhancer",
+    "firefox",
+    "extension"
   ],
   "author": "IEEECS-VIT",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IEEECS-VIT/Enhancer-for-VIT-Vellore-Academics/issues"
+    "url": "https://github.com/lemonnuggets/vtop-enhancer-firefox/issues"
   },
-  "homepage": "https://github.com/IEEECS-VIT/Enhancer-for-VIT-Vellore-Academics#readme",
+  "homepage": "https://github.com/lemonnuggets/vtop-enhancer-firefox#readme",
   "devDependencies": {
     "all-contributors-cli": "^6.20.0"
   }
